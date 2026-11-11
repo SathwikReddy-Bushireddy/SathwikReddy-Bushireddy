@@ -64,11 +64,11 @@ A financial assistant built on a LangGraph workflow. It fetches live stock, cryp
 A REST backend for core banking: deposits, withdrawals, transfers and transaction history, plus admin controls to create, block and unblock accounts. It uses a layered architecture, BCrypt-hashed PINs, ACID-safe transactions and global exception handling.
 `Java 17` `Spring Boot 3` `JPA/Hibernate` `MySQL` `Maven`
 
-### 📊 [Retail Sales Analytics Dashboard](https://github.com/SathwikReddy-Bushireddy/retail-sales-analytics-dashboard)
+### 📊 [Retail Sales Analytics Dashboard](https://github.com/SathwikReddy-Bushireddy/retail-sales-dashboard)
 An interactive Power BI dashboard tracking sales, profit, orders, customers and profit margin across regions, categories and segments, with monthly trend analysis and filters. Data was cleaned in Power Query and KPIs were built with DAX.
 `Power BI` `DAX` `Power Query` `Excel`
 
-### 🎮 [Tic Tac Toe](https://github.com/SathwikReddy-Bushireddy/tic-tac-toe-game)
+### 🎮 [Tic Tac Toe](https://github.com/SathwikReddy-Bushireddy/Tic-Tac-Toe)
 A two-player command-line Tic Tac Toe game in Java.
 `Java`
 
