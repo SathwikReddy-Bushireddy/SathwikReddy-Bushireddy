@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sathwik-reddy-bushireddy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sathwikreddybushireddy@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://ai-career-copilot-sathwik-reddy.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-Career_Copilot-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
   <a href="https://finpilot-ai-sathwik-reddy.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-FinPilot_AI-10B981?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
 </p>
