@@ -97,7 +97,7 @@ I'm open to internships, entry-level roles and collaborations. The best ways to 
 
 | Platform | Link |
 |---|---|
-| 💼 LinkedIn | www.linkedin.com/in/sathwik-reddy-bushireddy |
-| 📧 Gmail | sathwikreddybushireddy@gmail.com |
+| 💼 LinkedIn | [linkedin.com/in/sathwik-reddy-bushireddy](https://www.linkedin.com/in/sathwik-reddy-bushireddy) |
+| 📧 Gmail | [sathwikreddybushireddy@gmail.com](mailto:sathwikreddybushireddy@gmail.com) |
 
 <p align="center"><i>Always learning, always building. Let's connect! ✨</i></p>
