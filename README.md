@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sathwik-reddy-bushireddy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sathwikreddybushireddy@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://ai-career-copilot-sathwik-reddy.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-Career_Copilot-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
   <a href="https://finpilot-ai-sathwik-reddy.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-FinPilot_AI-10B981?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
 </p>
@@ -90,14 +90,14 @@ A two-player command-line Tic Tac Toe game in Java.
 I'm open to internships, entry-level roles and collaborations. The best ways to reach me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sathwik-reddy-bushireddy"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &nbsp;
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:sathwikreddybushireddy@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 | Platform | Link |
 |---|---|
-| 💼 LinkedIn | [linkedin.com/in/sathwik-reddy-bushireddy](https://www.linkedin.com/in/sathwik-reddy-bushireddy) |
-| 📧 Gmail | [sathwikreddybushireddy@gmail.com](mailto:sathwikreddybushireddy@gmail.com) |
+| 💼 LinkedIn | www.linkedin.com/in/sathwik-reddy-bushireddy |
+| 📧 Gmail | sathwikreddybushireddy@gmail.com |
 
 <p align="center"><i>Always learning, always building. Let's connect! ✨</i></p>
